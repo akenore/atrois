@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Captura-italic";
+  src: url(./fonts/Captura-medium-Italic.otf);
+}
+
+@font-face {
+  font-family: "Captura";
+  src: url(./fonts/Captura-medium.otf);
+}
+
+@font-face {
+  font-family: "MyriadPro";
+  src: url(./fonts/MYRIADPRO-REGULAR.woff);
+}
+
+@font-face {
+  font-family: "MyriadPro-semi";
+  src: url(./fonts/MYRIADPRO-SEMIBOLD.woff);
+}
